@@ -14,6 +14,7 @@ The objective of this project is to analyze and visualize Netflix’s content li
 8.	What rating category is most common in top genres? 
 Dashboard Interaction<a href=”https://github.com/Akash446-RM/Data-Analysis-Dashboard/blob/main/dashboard.png”>View dashboard</a>
 Dashboard Interaction1<a href=”https://github.com/Akash446-RM/Data-Analysis-Dashboard/blob/main/dashboard1.png”> View dashboard1</a>
+
 ## Process
 Imported Netflix dataset (CSV) into Google Sheets.
 Cleaned data — removed blanks, fixed date formats, and split genres.
