@@ -23,4 +23,5 @@ The objective of this project is to analyze and visualize Netflix’s content li
 -Combined all charts into one interactive dashboard.
 -Highlighted key insights and visual trends from the data.
 ## Dashboard
+<img width="940" height="437" alt="image" src="https://github.com/user-attachments/assets/d487289e-d9bc-429d-8227-6af73da5a4a2" />
 
