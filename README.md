@@ -1,2 +1,4 @@
-# Data-Analysis-Dashboard
-I have developed a comprehensive project in Google Sheets, creating multiple dashboard and tables to analyze the data. This process involves several  stages, including data preprocessing, data cleaning, data visualization.
+# Netflix Data Analysis (Interactive Dashboard creation using Google Sheets)
+#objective
+The objective of this project is to analyze and visualize Netflix’s content library using Google Sheets to uncover trends, patterns, and insights
+
